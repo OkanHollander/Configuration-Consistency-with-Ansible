@@ -9,6 +9,8 @@
 *.user
 *.userosscache
 *.sln.docstates
+
+# PROJECT SPECIFIC FILES
 hosts
 .vault_pass
 group_vars/
